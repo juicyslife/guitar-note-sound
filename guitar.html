@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html><head>
+	<title>Guitar</title>
+	<!--dependencies-->
+
+	<script src="./libs/jquery-1.10.2.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="./asset/style.css">
+</head>
+<body>
+	<noscript>
+		Please enable javascript for this page to work
+	</noscript>
+	<div id="logo">
+		<a id="icon" href="http://juicyswear.territory.tw/"><img src="./asset/logo.png"></a>
+	</div>
+	<div id="container">
+		<div id="1"></div>
+		<div id="2"></div>
+		<div id="3"></div>
+		<div id="4"></div>
+		<div id="A"></div>
+	</div>
+
+</body>
+	<!--application-->
+	<script type="text/javascript">
+		var KEYMAP = {
+			"1" : {
+				audio : "0",
+				keyCode : 37
+			},
+			"2" : {
+				audio : "2",
+				keyCode : 38
+			},
+			"3" : {
+				audio : "4",
+				keyCode : 39
+			},
+			"4" : {
+				audio : "4",
+				keyCode : 40
+			}
+		};
+	</script>
+	<script src="./libs/Inst.js"></script>
+<script src="./libs/WebAudioNote.js"></script>
+</html>
