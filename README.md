@@ -1,7 +1,7 @@
 [guitar-note-sound](https://juicyswear.territory.tw/tutorial/guitar) — 吉他聲音
 ==================================================
 大家好！這裡分享我們Youtube裡所介紹的使用 Makey Makey 自製吉他裡的網頁程式原始碼！
-[此篇影片]()
+[此篇影片](https://youtu.be/FOZvF14U5y8)
 
 
 我們所彈奏的 Mary Had Little Lamb 吉他樂譜
