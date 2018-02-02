@@ -4,7 +4,7 @@
 [此篇影片](https://youtu.be/FOZvF14U5y8)
 
 
-我們所彈奏的 Mary Had Little Lamb 吉他樂譜
+我們所彈奏的 Mary Had A Little Lamb 吉他樂譜
 --------------------------------------
 4202444 222 444
 
